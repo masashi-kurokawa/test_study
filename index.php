@@ -13,6 +13,6 @@
 </head>
 <body>
 <h1>Gitサンプル</h1>
-<p>操作test</p>
+<p>操作test2</p>
 </body>
 </html>
